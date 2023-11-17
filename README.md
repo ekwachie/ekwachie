@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evans
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web developement and mobile app developement( cross platform)
+- 👨🏽‍💻 I’m a software development
+- 🌱 I'm building cool stuffs. 😂👨🏽‍💻
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me by mail: evans.kwachie@ucc.edu.gh
 
