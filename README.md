@@ -1,7 +1,8 @@
+# LEARN, UNLEARN, RELEARN 👨🏽‍💻
 - 👋 Hi, I’m Evans
 - 👨🏽‍💻 I’m a software developer
 - 🌱 I'm building cool stuffs. 😂👨🏽‍💻
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m looking to collaborate on open source projects
 - 📫 You can reach me by mail: evans.kwachie@ucc.edu.gh
 
 <!---
