@@ -11,4 +11,4 @@ ekwachie/ekwachie is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwachie&layout=compact&hide=scss"/>
-<img src="https://streak-stats.demolab.com?user=ekwachie&theme=dark&card_width=100" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ekwachie&theme=light&card_width=45%" alt="GitHub Streak" />
