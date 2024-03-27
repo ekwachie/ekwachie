@@ -1,5 +1,5 @@
 # LEARN, UNLEARN, RELEARN 👨🏽‍💻
-- 👋 Hi, I’m Evans paPjed-vuxma6-suhsud
+- 👋 Hi, I’m Evans
 - 👨🏽‍💻 I’m a Software Engineer
 - 🌱 I'm building some really cool stuff. Kindly follow me 😂👨🏽‍💻
 - 👀 I’m looking to collaborate on open source projects
