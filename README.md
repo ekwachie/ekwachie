@@ -3,7 +3,7 @@
 - 👨🏽‍💻 I’m a Software Engineer
 - 🌱 I'm building some really cool stuff. Kindly follow me 😂👨🏽‍💻
 - 👀 I’m looking to collaborate on open source projects
-- 📫 You can reach me by mail: ekwachie@payperlez.org
+- 📫 You can reach me by mail: evans.kwachie@ucc.edu.gh
 
 <img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwachie&layout=compact&hide=scss"/>
 
