@@ -1,84 +1,122 @@
 <div align="center">
 
-# Hi, I'm Evans Kwachie 👨🏽‍💻
+# Evans Kwachie
 
-### Software Engineer | Builder | Open Source Collaborator
+### Senior Software Engineer building fintech, banking, SaaS, and crypto infrastructure
 
-I believe in one thing: **learn, unlearn, relearn**.  
-I build practical software, explore new technologies, and enjoy creating tools that solve real problems.
+I design and ship production systems for money movement, payment rails, core banking integrations, APIs, dashboards, and creator platforms.
 
-[![Twitter](https://img.shields.io/badge/Twitter-evanskwachie-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/evanskwachie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evans%20Kwachie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-kwachie-018297b1/)
-[![Email](https://img.shields.io/badge/Email-evans.kwachie@ucc.edu.gh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evans.kwachie@ucc.edu.gh)
+[![Portfolio](https://img.shields.io/badge/QuickSedis-quicksedis.com-111827?style=for-the-badge&logo=bitcoin&logoColor=white)](https://quicksedis.com)
+[![Blogpay](https://img.shields.io/badge/Blogpay-myblogpay.com-2563EB?style=for-the-badge&logo=readme&logoColor=white)](https://myblogpay.com)
+[![Payperlez](https://img.shields.io/badge/Payperlez-payperlez.org-16A34A?style=for-the-badge&logo=walletconnect&logoColor=white)](https://payperlez.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evans%20Kwachie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekwachie/)
+[![Email](https://img.shields.io/badge/Email-ekwachie@gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekwachie@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+```txt
+> learn
+> unlearn
+> relearn
 
-- 👋 Hi, I’m **Evans**
-- 👨🏽‍💻 I’m a **Software Engineer**
-- 🌱 I’m building some really cool stuff
-- 👀 I’m open to collaborating on **open source projects**
-- 📫 Reach me at **evans.kwachie@ucc.edu.gh**
+Current mode:
+Designing secure APIs, payment systems, banking middleware, and digital asset infrastructure.
+```
 
----
+## What I Build
 
-## Tech Stack
+I am a backend-heavy software engineer with 8+ years of experience across fintech, banking, SaaS, education technology, and open-source tooling.
+
+- Core banking middleware connecting enterprise applications to Oracle Flexcube.
+- Merchant APIs for crypto payment acceptance and automated settlement.
+- Digital asset on/off-ramp infrastructure for local currency settlement.
+- Creator monetization platforms serving thousands of users.
+- REST APIs for admissions, fee collections, voucher sales, and banking partners.
+- Internal dashboards for CRM, stock management, direct debit, and notifications.
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>QuickSedis</h3>
+      <p>Digital asset on/off-ramp platform for crypto-to-local-currency settlement, wallet workflows, pricing, KYC, referrals, and merchant payments.</p>
+      <p><a href="https://quicksedis.com">quicksedis.com</a></p>
+    </td>
+    <td width="50%">
+      <h3>Blogpay</h3>
+      <p>Publishing and creator monetization platform with 27,000+ users, 140,000+ articles, and GHS 120,000+ in creator payouts.</p>
+      <p><a href="https://myblogpay.com">myblogpay.com</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>INNA PHP Framework</h3>
+      <p>Open-source PHP MVC framework powering multiple production applications.</p>
+      <p><a href="https://github.com/ekwachie/inna">github.com/ekwachie/inna</a></p>
+    </td>
+    <td width="50%">
+      <h3>Banking Middleware</h3>
+      <p>Central API middleware for secure account, customer, and transaction services across internal banking systems.</p>
+    </td>
+  </tr>
+</table>
+
+## Engineering Stack
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B91C1C?style=flat-square&logo=openjdk&logoColor=white)
 
-### Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+### Backend, APIs, and Architecture
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-334155?style=flat-square&logo=auth0&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-7C2D12?style=flat-square&logo=amazonecs&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event%20Driven-4338CA?style=flat-square&logo=apachekafka&logoColor=white)
 
-### Frameworks & Platforms
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=qt&logoColor=white)
+### Data, Infrastructure, and UI
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-575757?style=for-the-badge&logo=sublimetext&logoColor=important)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
+## Domains I Care About
 
-### Databases, Servers & OS
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+```txt
+payments        banking APIs        core banking        crypto infrastructure
+merchant tools  creator economy     internal systems    open-source frameworks
+```
 
----
-
-## GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwachie&layout=compact&hide=scss&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ekwachie&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Evans Kwachie's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwachie&layout=compact&hide=scss&theme=github_dark&hide_border=true" alt="Most used languages" />
 
 </div>
 
+> If the stat cards do not load, GitHub or Vercel may be rate-limiting the widget. The rest of this profile is designed to still stand on its own.
+
+## Open To
+
+- Open-source collaboration around PHP, APIs, payment systems, and developer tooling.
+- Fintech and banking infrastructure conversations.
+- Building products that move from idea to production.
+
 ---
 
 <div align="center">
 
-### Let’s build something useful together.
+### Building systems that quietly do the important work.
 
 </div>
